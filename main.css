@@ -1,0 +1,49 @@
+.one{
+    background-color: purple;
+    padding-top: 10px;
+    margin: 0px;
+}.find{
+    text-align: center;
+    color: yellow;
+}
+.course{
+    text-align: center;
+    color: white;
+}
+.eng{
+   
+}
+.gen{
+    color: yellow;
+}
+.lorem{
+    color:white;
+}
+.inner-box{
+    background-color: mediumorchid;
+  color: mediumorchid;
+  border: 10px  solid;
+}
+.btn{
+    margin-left: 30px;
+    border: 10px  solid;
+}
+/* .button {
+    background-color: #04AA6D;
+    border: none;
+    color:yellow;
+    text-align: center;
+    text-decoration: yellow;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  } */
+   .lines{
+    background-color: yellow;
+    width: 300px;
+    height: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+   }
+   
